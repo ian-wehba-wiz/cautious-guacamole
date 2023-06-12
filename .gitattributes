@@ -1,1 +1,1 @@
-target/doc/* -linguist-documentation
+target/* linguist-documentation
